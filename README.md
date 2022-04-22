@@ -11,5 +11,8 @@
 - get the address of ur contract, watch it and save it in etherscan (care of ur gas if u deploy on mainnet)
   
   
+  
+  
+  
   my firstteps in web3
   maybe bad way but working
