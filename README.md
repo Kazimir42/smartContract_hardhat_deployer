@@ -2,6 +2,7 @@
 
 - change contract by yours
 - fill tokens.json (if needed (ex : whitelist))
+- edit index.js (with u what want)
 - $ node index.js | to generate the merkle tree (if needed (ex : whitelist))
 - edit deploy.js (with ur contract name and params)
 - edit hardhat.config.js with the network where you want to deploy
