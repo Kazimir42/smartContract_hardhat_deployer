@@ -12,5 +12,5 @@
   
 __________________________________________________
   
-  my firstteps in web3
+  my first steps in web3
   maybe bad way but working
