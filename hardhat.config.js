@@ -19,7 +19,7 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
  module.exports = {
   solidity: "0.8.7",
   networks: {
-   rinkeby: {
+   rinkeby: { //mainnet if u want deploy to real ETH network
      url: "url", //Infura url with projectId
      accounts: ["PRIVATEKEY"] // add the account that will deploy the contract (private key)
     },
