@@ -1,4 +1,4 @@
-# Step
+# Steps
 
 - change contract by yours
 - fill tokens.json (if needed (ex : whitelist))
@@ -9,3 +9,7 @@
 - $ npx hardhat compile | (compile ur contract)
 - $ npx hardhat run scripts/deploy.js --network <network-name> | (deploy it on the network u want)
 - get the address of ur contract, watch it and save it in etherscan (care of ur gas if u deploy on mainnet)
+  
+  
+  my firstteps in web3
+  maybe bad way but working
