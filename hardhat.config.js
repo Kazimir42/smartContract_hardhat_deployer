@@ -24,6 +24,11 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
      accounts: ["PRIVATEKEY"] // add the account that will deploy the contract (private key)
     },
   },
+  //networks: {  LOCALHOST
+  //  hardhat: {
+  //    chainId: 1337
+  //  }
+  //},
   solidity: {
     version: "0.8.7",
     settings: {
