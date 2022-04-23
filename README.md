@@ -1,7 +1,7 @@
 # Steps
 
 - change contract by yours
-- fill tokens.json (if needed (ex : whitelist))
+- fill the 2 files "tokens.json" (if needed (ex : whitelist))
 - edit index.js (with what u want)
 - $ node index.js | to generate the merkle tree (if needed (ex : whitelist))
 - edit deploy.js (with ur contract name and params)
